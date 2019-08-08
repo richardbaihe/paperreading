@@ -1,6 +1,6 @@
 # SLU
 ## zero-shot
-[Robust Zero-Shot Cross-Domain Slot Filling with Example Values](https://www.aclweb.org/anthology/P19-154)(ACL2019)
+[Robust Zero-Shot Cross-Domain Slot Filling with Example Values](https://www.aclweb.org/anthology/P19-1547)(ACL2019)
 ## Single turn
 [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://www.aclweb.org/anthology/P19-1519)(ACL2019)
 

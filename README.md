@@ -11,3 +11,9 @@
 [Speech Model Pre-training for End-to-End Spoken Language Understanding](https://arxiv.org/pdf/1904.03670.pdf)(Interspeech2019)
 # DST
 [SUMBT: Slot-Utterance Matchingfor Universal and Scalable Belief Tracking](https://www.aclweb.org/anthology/P19-1546)(ACL2019)
+
+[HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)(Interspeech2019)
+
+[Multi-task learning for Joint Language Understanding and Dialogue State Tracking](https://www.aclweb.org/anthology/W18-5045)（SIGDIAL2018）
+
+[Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655.pdf)(ACL2018)

@@ -17,3 +17,5 @@
 [Multi-task learning for Joint Language Understanding and Dialogue State Tracking](https://www.aclweb.org/anthology/W18-5045)（SIGDIAL2018）
 
 [Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655.pdf)(ACL2018)
+
+[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)(ACL 2019)

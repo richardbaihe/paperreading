@@ -21,14 +21,17 @@
 [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/pdf/1909.10924.pdf)(Alibaba AI)
 
 # DST
+[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)(ACL 2019)
+
+[MultiWOZ 2.1: Multi-Domain Dialogue State Corrections and State Tracking Baselines](https://arxiv.org/pdf/1907.01669.pdf)(Arxiv 2019)
+
 [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://www.aclweb.org/anthology/P19-1546)(ACL2019)
 
 [HyST: A Hybrid Approach for Flexible and Accurate Dialogue State Tracking](https://arxiv.org/pdf/1907.00883.pdf)(Interspeech2019)
 
+
 [Multi-task learning for Joint Language Understanding and Dialogue State Tracking](https://www.aclweb.org/anthology/W18-5045)（SIGDIAL2018）
 
 [Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655.pdf)(ACL2018)
-
-[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)(ACL 2019)
 
 [Toward Scalable Neural Dialogue State Tracking Model](https://arxiv.org/pdf/1812.00899.pdf)(NIPS 2018)

@@ -30,3 +30,5 @@
 [Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/pdf/1805.09655.pdf)(ACL2018)
 
 [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)(ACL 2019)
+
+[Toward Scalable Neural Dialogue State Tracking Model](https://arxiv.org/pdf/1812.00899.pdf)(NIPS 2018)

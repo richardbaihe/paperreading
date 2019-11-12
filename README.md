@@ -1,4 +1,4 @@
-# SLU
+# 1. SLU
 ## zero/few-shot
 [Robust Zero-Shot Cross-Domain Slot Filling with Example Values](https://www.aclweb.org/anthology/P19-1547)(ACL2019)
 
@@ -20,7 +20,7 @@
 
 [Understanding Semantics from Speech Through Pre-training](https://arxiv.org/pdf/1909.10924.pdf)(Alibaba AI)
 
-# DST
+# 2. DST
 [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1905.08743.pdf)(ACL 2019)
 
 [MultiWOZ 2.1: Multi-Domain Dialogue State Corrections and State Tracking Baselines](https://arxiv.org/pdf/1907.01669.pdf)(Arxiv 2019)
